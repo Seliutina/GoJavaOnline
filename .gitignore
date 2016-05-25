@@ -1,0 +1,6 @@
+# forder
+.idea/*
+out/*
+
+# class files
+*.class
